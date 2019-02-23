@@ -9,6 +9,7 @@ public class hello {
 
 		System.out.println("pritam");
 		System.out.println("Ruchika");
+		System.out.println("chhavi");
 	}
 
 }
