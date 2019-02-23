@@ -8,6 +8,7 @@ public class hello {
 		// TODO Auto-generated method stub
 
 		System.out.println("pritam");
+		System.out.println("Ruchika");
 	}
 
 }
